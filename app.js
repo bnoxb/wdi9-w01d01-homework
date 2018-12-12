@@ -74,6 +74,6 @@ for (let j = 999; j >= 0; j--) {
     console.log(j);
 }
 
-for (let y = 1; y <= 10; y++){
+for (let y = 1; y <= 2; y++){
     console.log(`The value of y is: ${y} of 10`)
 }
